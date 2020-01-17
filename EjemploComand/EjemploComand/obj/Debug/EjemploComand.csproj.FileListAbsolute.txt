@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjemploComand\EjemploComand\bin\Debug\EjemploComand.exe.config
+C:\Users\carlos.can\source\repos\EjemploComand\EjemploComand\bin\Debug\EjemploComand.exe
+C:\Users\carlos.can\source\repos\EjemploComand\EjemploComand\bin\Debug\EjemploComand.pdb
+C:\Users\carlos.can\source\repos\EjemploComand\EjemploComand\obj\Debug\EjemploComand.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjemploComand\EjemploComand\obj\Debug\EjemploComand.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjemploComand\EjemploComand\obj\Debug\EjemploComand.exe
+C:\Users\carlos.can\source\repos\EjemploComand\EjemploComand\obj\Debug\EjemploComand.pdb
